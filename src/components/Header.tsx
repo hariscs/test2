@@ -10,7 +10,7 @@ export default function Header() {
             <div className="elementor-element elementor-element-70f99d9 elementor-widget elementor-widget-image">
               <div className="elementor-widget-container">
                 <Link href="/">
-                  <img src="/images/f1faadc94271de8231501bda2f1cc1b2.webp" alt="District-Behavioral-Health-Group-Big-Logo-Size" width={840} height={259} className="attachment-full size-full wp-image-430" />
+                  <img src="/images/f1faadc94271de8231501bda2f1cc1b2-header.webp" alt="District-Behavioral-Health-Group-Big-Logo-Size" width={250} height={77} className="attachment-full size-full wp-image-430" />
                 </Link>
               </div>
             </div>
@@ -34,7 +34,7 @@ export default function Header() {
                               Locations
                             </h4>
                             <div className="menu_cta">
-                              <img src="/images/baad72c12360e71c82490b3e14954a4a.webp" alt="" width={1920} height={1014} />
+                              <img src="/images/baad72c12360e71c82490b3e14954a4a.webp" alt="" width={1920} height={1014} loading="lazy" />
                               <p>
                                 Choose from our beautiful locations near beaches & national parks.
                               </p>
@@ -96,7 +96,7 @@ export default function Header() {
                                     </Link>
                                   </div>
                                   <div className="geo_image_box">
-                                    <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="Location Preview" width={720} height={720} className="geo-preview-img" />
+                                    <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="Location Preview" width={720} height={720} className="geo-preview-img" loading="lazy" />
                                   </div>
                                 </div>
                               </div>
@@ -112,7 +112,7 @@ export default function Header() {
                           </div>
                         </div>
                         <div className="mobile-image-footer">
-                          <img src="/images/baad72c12360e71c82490b3e14954a4a.webp" alt="Menu CTA Image" width={1920} height={1014} className="mobile-geo-img" />
+                          <img src="/images/baad72c12360e71c82490b3e14954a4a.webp" alt="Menu CTA Image" width={1920} height={1014} className="mobile-geo-img" loading="lazy" />
                         </div>
                       </div>
                     </div>
@@ -129,7 +129,7 @@ export default function Header() {
                               Treatments Programs
                             </h4>
                             <div className="menu_cta">
-                              <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="" width={720} height={720} />
+                              <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="" width={720} height={720} loading="lazy" />
                               <p>
                                 Get treatment for a wide range of substance use disorders.
                               </p>
@@ -266,7 +266,7 @@ export default function Header() {
                           </div>
                         </div>
                         <div className="mobile-image-footer">
-                          <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="Menu CTA Image" width={720} height={720} className="mobile-geo-img" />
+                          <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="Menu CTA Image" width={720} height={720} className="mobile-geo-img" loading="lazy" />
                         </div>
                       </div>
                     </div>
@@ -425,7 +425,7 @@ export default function Header() {
           <div className="elementor-element elementor-element-33ebb35 this-logo-sticky elementor-widget elementor-widget-image">
             <div className="elementor-widget-container">
               <Link href="/">
-                <img src="/images/f1faadc94271de8231501bda2f1cc1b2.webp" alt="District-Behavioral-Health-Group-Big-Logo-Size" width={840} height={259} className="attachment-full size-full wp-image-430" />
+                <img src="/images/f1faadc94271de8231501bda2f1cc1b2-header.webp" alt="District-Behavioral-Health-Group-Big-Logo-Size" width={250} height={77} className="attachment-full size-full wp-image-430" />
               </Link>
             </div>
           </div>
@@ -447,7 +447,7 @@ export default function Header() {
                             Locations
                           </h4>
                           <div className="menu_cta">
-                            <img src="/images/baad72c12360e71c82490b3e14954a4a.webp" alt="" width={1920} height={1014} />
+                            <img src="/images/baad72c12360e71c82490b3e14954a4a.webp" alt="" width={1920} height={1014} loading="lazy" />
                             <p>
                               Choose from our beautiful locations near beaches & national parks.
                             </p>
@@ -509,7 +509,7 @@ export default function Header() {
                                   </Link>
                                 </div>
                                 <div className="geo_image_box">
-                                  <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="Location Preview" width={720} height={720} className="geo-preview-img" />
+                                  <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="Location Preview" width={720} height={720} className="geo-preview-img" loading="lazy" />
                                 </div>
                               </div>
                             </div>
@@ -525,7 +525,7 @@ export default function Header() {
                         </div>
                       </div>
                       <div className="mobile-image-footer">
-                        <img src="/images/baad72c12360e71c82490b3e14954a4a.webp" alt="Menu CTA Image" width={1920} height={1014} className="mobile-geo-img" />
+                        <img src="/images/baad72c12360e71c82490b3e14954a4a.webp" alt="Menu CTA Image" width={1920} height={1014} className="mobile-geo-img" loading="lazy" />
                       </div>
                     </div>
                   </div>
@@ -542,7 +542,7 @@ export default function Header() {
                             Treatments Programs
                           </h4>
                           <div className="menu_cta">
-                            <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="" width={720} height={720} />
+                            <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="" width={720} height={720} loading="lazy" />
                             <p>
                               Get treatment for a wide range of substance use disorders.
                             </p>
@@ -679,7 +679,7 @@ export default function Header() {
                         </div>
                       </div>
                       <div className="mobile-image-footer">
-                        <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="Menu CTA Image" width={720} height={720} className="mobile-geo-img" />
+                        <img src="/images/18afbe2d09d55d30c07def668f9880b6.webp" alt="Menu CTA Image" width={720} height={720} className="mobile-geo-img" loading="lazy" />
                       </div>
                     </div>
                   </div>
@@ -837,7 +837,7 @@ export default function Header() {
               <div className="elementor-element elementor-element-ede5212 this-logo-sticky elementor-widget elementor-widget-image">
                 <div className="elementor-widget-container">
                   <Link href="/">
-                    <img src="/images/f1faadc94271de8231501bda2f1cc1b2.webp" alt="District-Behavioral-Health-Group-Big-Logo-Size" width={840} height={259} className="attachment-full size-full wp-image-430" />
+                    <img src="/images/f1faadc94271de8231501bda2f1cc1b2-header.webp" alt="District-Behavioral-Health-Group-Big-Logo-Size" width={250} height={77} className="attachment-full size-full wp-image-430" />
                   </Link>
                 </div>
               </div>

@@ -16,12 +16,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
       <noscript>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=7.0" />
-        <link rel="stylesheet" href="https://cdn.trustindex.io/assets/widget-presetted-css/v2/80-light-background.css" />
       </noscript>
       </head>
       <body className="elementor-default elementor-page-0">
         <DeferredStylesheet href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=7.0" />
-        <DeferredStylesheet href="https://cdn.trustindex.io/assets/widget-presetted-css/v2/80-light-background.css" />
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MGF7WNCV" height="0" width="0" style={{display:"none",visibility:"hidden"}} /></noscript>
         <Header />
         <main>{children}</main>
